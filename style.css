@@ -98,3 +98,141 @@ a{
   height: 30px;
 }
 
+p{
+  font-family: Roboto, Arial;
+  margin: 0;
+}
+
+
+.energy{
+font-weight: bold;
+margin-top: 60px;
+margin-bottom: 20px;
+}
+
+.slb-first{
+  font-weight: bolder;
+  font-size: xx-large;
+  margin-bottom: 30px;
+  line-height: 40px;
+  width: 400px;
+}
+
+.slb-second{
+  color: rgb(26, 26, 26);
+  font-size: 24px;
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.images{
+  width: 500px;
+}
+
+.main{
+  display: flex;
+  flex-direction: row;
+}
+
+.first-div{
+  flex: 1;
+}
+
+.second-div{
+  flex: 1;
+}
+
+.announcement-div{
+  height: 30px;
+  width: 210px;
+  background-color: rgb(118, 185, 0);
+  padding: 8px;
+  cursor: pointer;
+  margin-top: 60px;
+}
+
+.announcement{
+  font-weight: bold;
+  text-align: center;
+  padding: 8px;
+}
+
+.text-division{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  padding-top: 60px;
+}
+
+.company-div,
+.news-div,
+.popular-div{
+  flex: 1;
+}
+
+.company-main{
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.about-main{
+  color: rgb(118, 185, 0) ;
+  line-height: 30px;
+}
+
+.Subscribe-button{
+  background-color: rgb(118, 185, 0);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  margin-right: 8px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  transition: opacity 0.15s;
+}
+
+.Subscribe-button:hover{
+  opacity: 0.8;
+}
+
+.Subscribe-button:active{
+  opacity:0.5 ;
+}
+
+.subscribe-divison{
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  padding-top: 60px;
+  padding-bottom: 100px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.company-news{
+  color: whitesmoke;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.sign-div{
+  width: 200px;
+}
+
+.sign-button{
+  width: 100px;
+}
+
+.img-class{
+  width: 60px;
+  height: 60px;
+}
+
+.img-div{
+  width: 100px;
+}
