@@ -6,4 +6,4 @@ hamburger.addEventListener("ckick",()=>{
   navmenu.classlist.toggle("active");
 })
 
-document.querySelector All(".nav-link").ForEach
+document.querySelector All(".nav-link").ForEach()
