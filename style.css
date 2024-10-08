@@ -45,3 +45,12 @@ a{
   display: none;
   cursor: pointer;
 }
+
+.bar{
+  display: block;
+  width: 25px;
+  height: 3px;
+  margin: 5px auto;
+  -webkit-Transition: all 0.3s ease-in-out;
+  
+}
