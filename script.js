@@ -6,4 +6,7 @@ hamburger.addEventListener("ckick",()=>{
   navmenu.classlist.toggle("active");
 })
 
-document.querySelector All(".nav-link").ForEach()
+document.querySelector All(".nav-link").ForEach(n=> n.addEventListener("click",() =>{
+  hamburger.classlist.remove("active");
+  navmenu.classlist.remove("active");
+}))
