@@ -6,4 +6,4 @@ hamburger.addEventListener("ckick",()=>{
   navmenu.classlist.toggle("active");
 })
 
-document.querySelector All()
+document.querySelector All(".")
