@@ -37,4 +37,8 @@ a{
   transition: 0.7s ease;
 }
 
-.nav
+.nav-link:hover{
+  color: grey;
+}
+
+.ham
