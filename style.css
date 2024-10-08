@@ -41,4 +41,7 @@ a{
   color: grey;
 }
 
-.ham
+.hamburger{
+  display: none;
+  cursor: pointer;
+}
