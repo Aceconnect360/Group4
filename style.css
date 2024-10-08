@@ -56,7 +56,7 @@ a{
   background-color: black;
 }
 
-@media(max-width: 768px){
+@media{
   .hamburger{
     display: block;
   }
